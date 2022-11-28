@@ -1,0 +1,47 @@
+*
+{
+  margin:0%;
+  padding:0%;
+}
+.main-body
+{
+   width:100vw;
+   height:100vh;
+   background-color:black;
+}
+.center
+{
+   color:#8B7E74;
+   text-align: center;
+   font-size:3em;
+   padding:1.5vh;
+}
+.card
+{
+
+  box-shadow: 0 10px 20px black;
+  list-style:none;
+  height:30vh;
+  width:44vh;
+  background-color:#8B7E74;
+  float:left;
+  margin:1.8vw;
+  padding: 1.8vh;
+}
+.our
+{
+  font-size:1em;
+  text-align: center;
+}
+.status
+{
+  font-size:3em;
+  font-weight: bold;
+}
+.number
+{
+  padding:4em;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+}
